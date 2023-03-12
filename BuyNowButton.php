@@ -1,3 +1,4 @@
+<?php
 /* Dynamic Button for Simple & Variable Product */
 
 /**
